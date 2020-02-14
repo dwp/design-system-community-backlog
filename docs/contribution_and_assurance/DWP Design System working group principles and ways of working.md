@@ -126,7 +126,7 @@ Anyone wanting to leave should contact the Design System team who will organise 
 
 ### Review sessions
 
-Each month, the working group meets for 1 hour on Google Hangouts to discuss new proposals or contributions for the GOV.UK Design System. Contributors are invited to join the call.
+Each month, the working group meets for 1 hour on Google Hangouts to discuss new proposals or contributions for the DWP Design System. Contributors are invited to join the call.
 
 The purpose of the session is for representatives to share their decisions and discuss questions, concerns or recommendations with each other and the contributors.
 
