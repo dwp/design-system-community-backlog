@@ -1,6 +1,6 @@
 # Email templates for sending new proposals and contributions to the working group
 
-These templates are for the GOV.UK Design System team to send new proposals and contributions to the [Design System working group](https://design-system.service.gov.uk/community/design-system-working-group/), ahead of the monthly review sessions.
+These templates are for the DWP Design System team to send new proposals and contributions to the Design System working group, ahead of the monthly review sessions.
 
 You should email new proposals and contributions to the working group one week before each review session.
 
