@@ -1,7 +1,6 @@
 # Contribution acceptance criteria template
 
 This template is for the DWP Design System team and contributors to record acceptance criteria for specific contributions.
-If you are running a design system, you are welcome to reuse it.
 
 You should adapt it to each contribution.
 
