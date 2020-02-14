@@ -1,4 +1,4 @@
-# design-system-backlog
+# DWP Design System Community Backlog
 
 # About this repo
 
