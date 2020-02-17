@@ -1,6 +1,6 @@
 # How you can contribute
 
-The DWP Design System [LINK TO DESIGN SYSTEM] is for everyone, with a strong community sitting behind it. It brings together the latest research, design and development from across government to make sure it’s representative and relevant for its users.
+The DWP Design System [LINK TO DESIGN SYSTEM] is for everyone, with a strong community sitting behind it. It brings together the latest research, design and development from across DWP to make sure it’s representative and relevant for its users.
 
 ## Discussing styles, components and patterns
 
