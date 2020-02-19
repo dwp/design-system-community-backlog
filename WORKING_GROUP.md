@@ -12,7 +12,7 @@ The working group:
 
 By including representatives from a mixture of disciplines, the working group helps to ensure that the Design System represents its users.
 
-It means that decisions made are fair and unbiased, and that the Design System reflects the experiences of the whole of government not just one department. 
+It means that decisions made are fair and unbiased, and that the Design System reflects the experiences of the whole of the department not just one team or practice. 
 
 ## How to join the working group
 
