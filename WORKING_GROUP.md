@@ -1,6 +1,6 @@
 # Design System working group
 
-The Design System working group is a multi-disciplinary panel of representatives from across government. It makes sure that all components and patterns published in the DWP Design System are of a high quality and meet user needs.
+The Design System working group is a multi-disciplinary panel of representatives from across DWP. It makes sure that all components and patterns published in the DWP Design System are of a high quality and meet user needs.
 
 The working group:
 
